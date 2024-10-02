@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 28,
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Elm Street",
+        "city": "New York",
+        "zipcode": "10001"
+      },
+      "hobbies": ["reading", "swimming", "coding"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 34,
+      "email": "janesmith@example.com",
+      "address": {
+        "street": "456 Maple Avenue",
+        "city": "San Francisco",
+        "zipcode": "94101"
+      },
+      "hobbies": ["painting", "hiking"]
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "age": 25,
+      "email": "michaelj@example.com",
+      "address": {
+        "street": "789 Oak Street",
+        "city": "Chicago",
+        "zipcode": "60601"
+      },
+      "hobbies": ["gaming", "guitar", "traveling"]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "age": 29,
+      "email": "emilydavis@example.com",
+      "address": {
+        "street": "321 Pine Road",
+        "city": "Los Angeles",
+        "zipcode": "90001"
+      },
+      "hobbies": ["photography", "yoga", "baking"]
+    },
+    {
+      "id": 5,
+      "name": "William Brown",
+      "age": 31,
+      "email": "williambrown@example.com",
+      "address": {
+        "street": "654 Cedar Lane",
+        "city": "Houston",
+        "zipcode": "77001"
+      },
+      "hobbies": ["basketball", "movies", "cooking"]
+    }
+  ]
+  
