@@ -1,0 +1,30 @@
+{
+  "name": "testinggdit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gdit": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.8.0",
+    "googleapis": "^144.0.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.1.0",
+    "open": "^10.1.0",
+    "ora": "^8.1.1",
+    "readline-sync": "^1.4.10",
+    "server-destroy": "^1.0.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
+}
